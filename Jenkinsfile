@@ -1,4 +1,4 @@
-@Library('xh-build@master') _
+@Library('xx-build@master') _
 
  standardPipeline{
     
